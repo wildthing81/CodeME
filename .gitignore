@@ -1,0 +1,20 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+### Gradle ###
+.gradle
+/build/
+
+/out/
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+#OSX desktop database
+*.DS_Store
+
+#local files
+.idea
